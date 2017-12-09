@@ -2,7 +2,7 @@
 
 Cryptoarbitrage.xlsb is an Excel workbook with an [xlwings](https://github.com/ZoomerAnalytics/xlwings) powered Python backend to detect arbitrage opportunities in the cryptocurrency markets.
 
-The cryptoarbitrage.xlsb workbook is version-controlled via [xltrail](https://demo.xltrail.com/#/workbook/github.com%2FZoomerAnalytics%2Fcryptoarbitrage.git%2Fcryptoarbitrage.xlsm/)
+The cryptoarbitrage.xlsb workbook is version-controlled via [xltrail](https://demo.xltrail.com/#/workbook/github.com%2FZoomerAnalytics%2Fcryptoarbitrage.git%2Fcryptoarbitrage.xlsb/)
 
 ![Cryptoarbitrage.xlsb](docs/screenshot1.png)
 
