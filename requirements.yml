@@ -1,0 +1,7 @@
+# conda env create -f requirements.yml
+name: cryptoarbitrage
+dependencies:
+- python=3.6
+- xlwings==0.11.4
+- pip:
+  - requests==2.18.4
